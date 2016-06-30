@@ -1,0 +1,10 @@
+<html>
+  <head>
+    <title>这是测试用的网页</title>
+  </head>
+  <body>
+    <div style="border:2px solid #ff0000; width=300px;height=100px">
+      <p>这是测试用网页
+    </div>
+  </body>
+</html>
